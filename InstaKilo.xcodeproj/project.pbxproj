@@ -16,6 +16,8 @@
 		2D638AB41FBC951B0099F876 /* PhotoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D638AB31FBC951B0099F876 /* PhotoCell.m */; };
 		2D638AB71FBC96D20099F876 /* PhotoGalleryCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D638AB61FBC96D20099F876 /* PhotoGalleryCollectionViewController.m */; };
 		2D638ABA1FBCBB570099F876 /* HeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D638AB91FBCBB570099F876 /* HeaderView.m */; };
+		2DF17DCD1FBCDD6C004C5FC8 /* CVSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DF17DCC1FBCDD6C004C5FC8 /* CVSection.m */; };
+		2DF17DD01FBCDD75004C5FC8 /* CVState.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DF17DCF1FBCDD75004C5FC8 /* CVState.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +37,10 @@
 		2D638AB61FBC96D20099F876 /* PhotoGalleryCollectionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhotoGalleryCollectionViewController.m; sourceTree = "<group>"; };
 		2D638AB81FBCBB570099F876 /* HeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HeaderView.h; sourceTree = "<group>"; };
 		2D638AB91FBCBB570099F876 /* HeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HeaderView.m; sourceTree = "<group>"; };
+		2DF17DCB1FBCDD6C004C5FC8 /* CVSection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CVSection.h; sourceTree = "<group>"; };
+		2DF17DCC1FBCDD6C004C5FC8 /* CVSection.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CVSection.m; sourceTree = "<group>"; };
+		2DF17DCE1FBCDD75004C5FC8 /* CVState.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CVState.h; sourceTree = "<group>"; };
+		2DF17DCF1FBCDD75004C5FC8 /* CVState.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CVState.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +82,10 @@
 				2D638AB91FBCBB570099F876 /* HeaderView.m */,
 				2D638AB51FBC96D20099F876 /* PhotoGalleryCollectionViewController.h */,
 				2D638AB61FBC96D20099F876 /* PhotoGalleryCollectionViewController.m */,
+				2DF17DCB1FBCDD6C004C5FC8 /* CVSection.h */,
+				2DF17DCC1FBCDD6C004C5FC8 /* CVSection.m */,
+				2DF17DCE1FBCDD75004C5FC8 /* CVState.h */,
+				2DF17DCF1FBCDD75004C5FC8 /* CVState.m */,
 				2D638AB21FBC951B0099F876 /* PhotoCell.h */,
 				2D638AB31FBC951B0099F876 /* PhotoCell.m */,
 				2D638AA51FBC94780099F876 /* Assets.xcassets */,
@@ -163,6 +173,8 @@
 				2D638AA11FBC94780099F876 /* ViewController.m in Sources */,
 				2D638AAC1FBC94780099F876 /* main.m in Sources */,
 				2D638A9E1FBC94780099F876 /* AppDelegate.m in Sources */,
+				2DF17DD01FBCDD75004C5FC8 /* CVState.m in Sources */,
+				2DF17DCD1FBCDD6C004C5FC8 /* CVSection.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
